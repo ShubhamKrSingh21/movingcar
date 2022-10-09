@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Credits: (Shubham Singh and team)
 
-Team Leader:
+Team Leader: Shubham Kumar Singh
