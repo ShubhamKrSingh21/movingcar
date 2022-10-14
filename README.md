@@ -11,9 +11,9 @@ Markdown is lightweight and easy-to-use syntax for a styling your writing. It in
 ```markdown
 Syntax highlighted the code block
 
-# Footer 1
-## Footer 2
-### Footer 3
+# Header 1
+## Header 2
+### Header 3
 
 - Bulleted
 - List
