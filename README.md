@@ -2,7 +2,7 @@
 
 You can use [editor on GitHub](https://github.com/ShubhamKrSingh21/movingcar/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, and to GitHub Pages will run on the [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you have to commit to this repository, and to GitHub Pages will run on the [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
