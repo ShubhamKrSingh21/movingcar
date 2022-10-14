@@ -11,9 +11,9 @@ Markdown is lightweight and easy-to-use syntax for a styling your writing. It in
 ```markdown
 Syntax highlighted the code block
 
-# Header 1
-## Header 2
-### Header 3
+# Footer 1
+## Footer 2
+### footer 3
 
 - Bulleted
 - List
@@ -33,7 +33,8 @@ For further details you can see [GitHub Flavored Markdown](https://guides.github
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShubhamKrSingh21/movingcar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
+Will there be a Hacktoberfest 2022
+Expand your open source contributions during Hacktoberfest 2022. Give back to open source projects during the month of October! This year, we're encouraging more than code contributions: writing, design, advocacy, and financial donations. Hacktoberfest is back for its ninth year!
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ### Thank You!
