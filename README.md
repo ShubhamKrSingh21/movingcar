@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+About READMEs
+In this article
+About READMEs
+Auto-generated table of contents for README files
+Section links in README files and blob pages
+Relative links and image paths in README files
+Wikis
+Further reading
+You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it.
 
-You can use [editor on GitHub](https://github.com/ShubhamKrSingh21/movingcar/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-At Shubham Housing Finance we provide affordable housing loan with a hassle-free documentation process and easy EMI's options for the low-income segment.
-Whenever you have to commit to this repository, and to this GitHub Pages will run on the [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+About READMEs
+You can add a README file to a repository to communicate important information about your project. A README, along with a repository license, citation file, contribution guidelines, and a code of conduct, communicates expectations for your project and helps you manage contributions.
 
-### Markdown
+For more information about providing guidelines for your project, see "Adding a code of conduct to your project" and "Setting up your project for healthy contributions."
 
-Markdown is lightweight and easy-to-use syntax for a styling your writing. It includes conventions for
+A README is often the first item a visitor will see when visiting your repository. README files typically include information on:
 
-```markdown
-Syntax highlighted the code block
+What the project does
+Why the project is useful
+How users can get started with the project
+Where users can get help with your project
+Who maintains and contributes to the project
+If you put your README file in your repository's hidden .github, root, or docs directory, GitHub will recognize and automatically surface your README to repository visitors.
 
+If a repository contains more than one README file, then the file shown is chosen from locations in the following order: the .github directory, then the repository's root directory, and finally the docs directory.
 
-- Bulleted
-- List
+Main page of the github/scientist repository and its README file
 
-1. Numbered
-2. List
+If you add a README file to the root of a public repository with the same name as your username, that README will automatically appear on your profile page. You can edit your profile README with GitHub Flavored Markdown to create a personalized section on your profile. For more information, see "Managing your profile README."
 
-**Bold** and _Italic_ and `Code` text
+README file on your username/username repository
 
-[Link](url) and ![Image](src)
-```
+Auto-generated table of contents for README files
+For the rendered view of any Markdown file in a repository, including README files, GitHub will automatically generate a table of contents based on section headings. You can view the table of contents for a README file by clicking the  menu icon at the top left of the rendered page.
 
-For further details you can see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+README with automatically generated TOC
 
-### Jekyll Themes
+Section links in README files and blob pages
+You can link directly to a section in a rendered file by hovering over the section heading to expose the link:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShubhamKrSingh21/movingcar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Section link within the README file for the github/scientist repository
 
-### Support or Contact
-Will there be a Hacktoberfest 2022
-Expand your open source contributions during Hacktoberfest 2022. Give back to open source projects during the month of October! This year, we're encouraging more than code contributions: writing, design, advocacy, and financial donations. Hacktoberfest is back for its ninth year!
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Relative links and image paths in README files
+You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
 
+A relative link is a link that is relative to the current file. For example, if you have a README file in root of your repository, and you have another file in docs/CONTRIBUTING.md, the relative link to CONTRIBUTING.md in your README might look like this:
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+GitHub will automatically transform your relative link or image path based on whatever branch you're currently on, so that the link or path always works. The path of the link will be relative to the current file. Links starting with / will be relative to the repository root. You can use all relative link operands, such as ./ and ../.
+
+Relative links are easier for users who clone your repository. Absolute links may not work in clones of your repository - we recommend using relative links to refer to other files within your repository.
+
+Wikis
+A README should contain only the necessary information for developers to get started using and contributing to your project. Longer documentation is best suited for wikis. For more information, see "About wikis."
 ### Thank You!
