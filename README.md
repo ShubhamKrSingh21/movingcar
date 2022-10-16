@@ -13,7 +13,7 @@ You can add a README file to a repository to communicate important information a
 
 For more information about providing guidelines for your project, see "Adding a code of conduct to your project" and "Setting up your project for healthy contributions."
 
-A README is often the first item a visitor will see when visiting your repository. README files typically include information on:
+A ok readme file the first item a visitor will see when visiting your repository. README files typically include information on:
 
 What the project does
 Why the project is useful
