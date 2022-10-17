@@ -51,4 +51,6 @@ GitHub will automatically transform your relative link or image path based on wh
 Relative links are easier for users who clone your repository. Absolute links may not work in clones of your repository - we recommend using relative links to refer to other files within your repository.
 
 A README should contain only the necessary information for developers to get started using and contributing to your project. Longer documentation is best suited for wikis. For more information, see "About wikis."
+
+Readme file contains the information and instruction about the project.
 ### Thank You!
