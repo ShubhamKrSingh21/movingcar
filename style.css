@@ -33,7 +33,7 @@ body{
 .car{
     height: 100px;
     width: 380px;
-    background-image: url(car_body1.png);
+    background-image: url(car_body.png);
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
