@@ -8,7 +8,7 @@ body{
 .sky{
     height: 100vh;
     width: 100%;
-    background-image: url(background.jpg);
+    background-image: url(night-background.jpg);
     background-repeat: no-repeat;
     position: absolute;
 }
@@ -33,7 +33,7 @@ body{
 .car{
     height: 100px;
     width: 380px;
-    background-image: url(car_body.png);
+    background-image: url(car_body1.png);
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
