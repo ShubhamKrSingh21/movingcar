@@ -24,7 +24,7 @@ If you put your README file in your repository's hidden .github, root, or docs d
 
 If a repository contains more than one README file, then the file shown is chosen from locations in the following order: the .github directory, then the repository's root directory, and finally the docs directory.
 
-Main page of the github/scientist repository and its README file
+Main page of the github/scientist repository and its README file:-
 
 If you add a README file to the root of a public repository with the same name as your username, that README will automatically appear on your profile page. You can edit your profile README with GitHub Flavored Markdown to create a personalized section on your profile. For more information, see "Managing your profile README."
 
