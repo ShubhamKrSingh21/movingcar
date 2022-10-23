@@ -1,4 +1,6 @@
 About READMEs
+This is a repo for the project 
+
 In this article
 About READMEs
 Auto-generated table of contents for README files
