@@ -15,7 +15,7 @@ For more information about providing guidelines for your project, see "Adding a 
 
 A ok readme file the first item a visitor will see when visiting your repository. README files typically include information on:
 
-What the project does
+What the project does??
 Why the project is useful
 How users can get started with the project
 Where users can get help with your project
