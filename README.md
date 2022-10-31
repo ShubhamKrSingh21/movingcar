@@ -54,7 +54,6 @@ Relative links are easier for users who clone your repository. Absolute links ma
 
 A README should contain only the necessary information for developers to get started using and contributing to your project. Longer documentation is best suited for wikis. For more information, see "About wikis."
 
-### This project is one of the most interesting thing out there.
 ### Thank You for giving your valuable time.
 ### All the Best.
 
