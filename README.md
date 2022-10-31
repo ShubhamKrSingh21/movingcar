@@ -56,5 +56,5 @@ A README should contain only the necessary information for developers to get sta
 
 ### Thank You for giving your valuable time.
 ### Hope this turns out to be helpful and valuable as well.
-### All the Best.
+### Best Of Luck.
 
